@@ -1,3 +1,7 @@
+Die Bilder, die für die KI benutzt werden, sind nicht hochgeladen,
+Sie können aber aus den src videos reproduziert werden
+
+
 in der ersten Phase habe ich das Model mit Bildern aus 2 vedios trainiert das eine mil smile das ander neutral
 
 das Model hat es geschafft ab epoche 25 eine 100% Gennauigkeit auf val und test Daten zu erzählen
