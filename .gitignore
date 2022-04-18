@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-*.mp4
+
 *.jpg
 
 # Distribution / packaging
@@ -129,6 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/video_Ki/src/
+
 /video_Ki/images/
 .DS_Store
