@@ -1,0 +1,11 @@
+in der ersten Phase habe ich das Model mit Bildern aus 2 vedios trainiert das eine mil smile das ander neutral
+
+das Model hat es geschafft ab epoche 25 eine 100% Gennauigkeit auf val und test Daten zu erzählen
+
+ich habe das Model mit den Bildern von anderer Aufnahme getestet das Ergebnis ist dass Model die meisten Bilder richtig ratet
+solnage sie das entsprechen, wodrauf er trailniert ist.
+bilder, wo meine Arme zu sehen sind, werden falsch geratet, da in den trainings daten nur mein Gesicht in der Mitte des Bilds zu sehen ist (modell kennt die Arme nicht)
+
+
+
+plan für schritt 2 ist: Trainingsinput auf Bilder vom gesamten Oberkörper zu erweitern. Dabei sollten die Arme in verschiedenen Positionen gelegt werden
