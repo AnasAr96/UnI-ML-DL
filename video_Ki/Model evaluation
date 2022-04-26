@@ -13,3 +13,9 @@ bilder, wo meine Arme zu sehen sind, werden falsch geratet, da in den trainings 
 
 
 plan für schritt 2 ist: Trainingsinput auf Bilder vom gesamten Oberkörper zu erweitern. Dabei sollten die Arme in verschiedenen Positionen gelegt werden
+    resultat: das Model hat nach Änderung einiger Parameter gut gelernt.
+    Ich habe auch einige Bilder mit Schwarzem Tshort zu den TrainingsDaten hinzugefügt und das Model konnte alle Bilder von beiden Stichproben erkennen
+
+
+
+Plan für schritt 3: Erweitere das Model mit bildern mit 2 verschiedenen farbigen tShirts
