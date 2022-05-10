@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 /src/
 .idea
+.iml
+.DS_Store
