@@ -1,0 +1,10 @@
+#miniforge3 as package manager
+tensorflow-macos==2.8.0
+tensorflow-metal==0.4.0
+opencv-python==4.5.5.64
+h5py
+jupyter
+keras-2.8.0-py2.py3-none-any.whl
+Keras-Preprocessing==1.1.2
+matplotlib
+numpy
